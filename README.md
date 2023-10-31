@@ -1,2 +1,4 @@
-# Pasta Git
+# Aprendendo Gif
  Primeiras configurações
+
+Vamos ver na alteração
