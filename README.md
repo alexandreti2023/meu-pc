@@ -1,0 +1,2 @@
+# Pasta Git
+ Primeiras configurações
